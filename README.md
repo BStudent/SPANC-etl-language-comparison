@@ -1,3 +1,9 @@
+This is a fork / clone used for scavenging code by __dimroc__ and other contributors for a concurrent ETL task.
+Excellent ongoing documentation of the effort here: http://blog.dimroc.com/2015/11/14/etl-language-showdown-pt3/  and in the links below.  For Project SPANC see the as-yet unbaked https://github.com/BStudent/SPANC-spinoff and also the similarly scavenged  https://github.com/BStudent/SPANC-websocket-shootout
+
+As of 10/31/17 everything in this repo is strictly the original code other than the dotted line below and these comments above it.  
+-----------------------------------------------------------------------------------------------  
+
 # Update
 
 Please see the following blog posts for the latests updates:
